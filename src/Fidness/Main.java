@@ -16,3 +16,5 @@ public class Main {
         SwingUtilities.invokeLater(() -> new LoginFrame().setVisible(true));
     }
 }
+
+//Github Link: https://github.com/danielarojascarballo/Fidness

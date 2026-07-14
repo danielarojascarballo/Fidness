@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/Fidness/Main.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/CredencialesInvalidasException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/NombreRutinaVacioException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/RutinaVaciaException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/gui/CrearRutinaFrame.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/gui/LoginFrame.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/gui/MenuAdministradorFrame.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/gui/MenuClienteFrame.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/gui/MisRutinasFrame.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/Administrador.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/CategoriaEjercicio.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/Cliente.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/Ejercicio.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/Rutina.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/modelo/Usuario.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/servicio/GimnasioServicio.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/UsuarioExistenteException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/UsuarioNoEncontradoException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/CategoriaExistenteException.java</file>
+            <file>file:/C:/Users/daniela/OneDrive%20-%20Soluciones%20Seguras/Documents/Universidad%20Folders/Programación%20Cliente-Servidor/DanielaRojas_Avance2_Fidness/src/excepciones/CategoriaConEjerciciosException.java</file>
+        </group>
+    </open-files>
+</project-private>
